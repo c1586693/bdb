@@ -19,6 +19,10 @@
         "name": "TV综合",
         "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
     },
+        {
+        "name": "熊猫舞蹈",
+        "url": "./BJ果舞.txt"
+    },
     {
         "name": "经典",
         "url": "./经典.txt"
